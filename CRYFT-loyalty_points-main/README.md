@@ -7,10 +7,13 @@ Are you a business owner who isn't able to keep a track of the large databases a
 ## CRYFT IS HERE TO CHANGE THAT.
 
 ## TECHNOLOGY USED
-SOLIDITY
-CELO
-TRUFFLE
-REACT-NATIVE
+`SOLIDITY`
+
+`CELO`
+
+`TRUFFLE`
+
+`REACT-NATIVE`
 
 ### DEPLOY HARDHAT PROCESS
 
